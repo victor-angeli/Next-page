@@ -1,5 +1,5 @@
-# Controle-de-vers-o
-repositorio para controle de versão 
+# Next Page
 
+ Um Sofware Voltado para criar um facilitação no processo de compra,aluguel e leitura de Livros.
 
-Primeira entrada: 29/08
+ 
